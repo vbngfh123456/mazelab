@@ -4,3 +4,4 @@ from .u_maze import u_maze
 from .morris_water_maze import morris_water_maze
 from .t_maze import t_maze
 from .double_t_maze import double_t_maze
+from .tilt_maze_1 import tilt_maze_1
