@@ -4,3 +4,9 @@ gym>=0.12.1
 numpy>=1.16.2
 matplotlib>=3.0.3
 scikit-image>=0.15.0
+
+pillow~=8.2.0
+scipy~=1.7.0
+imageio~=2.9.0
+ipython~=7.22.0
+setuptools~=52.0.0
